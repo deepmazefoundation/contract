@@ -9,7 +9,7 @@ Open Source Smart Contract
  |_____/ \___|\___| .__/|_|  |_|\__,_/___\___|
                   | |                         
                   |_|              
-```
+
 DEEPMAZE is the world's first crowding pool backed auto-liquidity DeFi token.
 2022
 
@@ -64,3 +64,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+```
